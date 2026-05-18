@@ -100,6 +100,6 @@ function teleportTiles() {
 ```
 The teleportTiles function randomly swaps the tile positions, for example it will pick two random tiles (tile a and b), tile a is stored temporarily but it will take tile B's position so then tile B will have to take tile A's original position. It's just two random tiles swapping positions with one another individually but it creates a nice smooth animation effect.
 
-You can also see the project [running here](Playful_control_panel_iteration_3_2026_05_18_08_20_34)
+You can also see the final iteration [running here](Playful_control_panel_iteration_3_2026_05_18_08_20_34)
 
 
