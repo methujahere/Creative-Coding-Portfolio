@@ -73,6 +73,8 @@ function setup() {
 
 Now taking a look at the code for the control panel section, I added sliders for each component. To begin with I set the frame rate to 4 as an initial start then later added speedSlider to increase or decrease the speed of the animation. I also added a slider which controls the grid size, as you can see it can be decreased to 5 rows and columns or 25 rows and columns. The circle and square checkboxes run to see if either of the shapes are visible and finally I added two colour pickers, one for the circles and one for the squares which are both initially coloured in yellow and blue. 
 
+You can also see the control panel iteration 2 [running here](Playful_control_panel_variant_2_2026_05_18_08_26_29)
+
 As for my final iteration for the control panel, I decided to go for a blend of both the previous two experiments. I also decided to have a softer animation style rather than the hectic flashing on my second iteration. 
 
 ![Screenshot 2026-05-18 090902.png](https://github.com/methujahere/Creative-Coding-Portfolio/blob/main/Screenshot%202026-05-18%20090902.png?raw=true)
@@ -97,5 +99,7 @@ function teleportTiles() {
 
 ```
 The teleportTiles function randomly swaps the tile positions, for example it will pick two random tiles (tile a and b), tile a is stored temporarily but it will take tile B's position so then tile B will have to take tile A's original position. It's just two random tiles swapping positions with one another individually but it creates a nice smooth animation effect.
+
+You can also see the project [running here](Playful_control_panel_iteration_3_2026_05_18_08_20_34)
 
 
