@@ -31,6 +31,8 @@ function rippleEffect(centerX, centerY) {
 
 I did explain every line with comments next to the code so I won't do too much of an explanation here but the main idea is that the function rippleEffect contains a for loop that checks all of the tiles. The distance will measure how far a tile is from the clicked circle. So the only tiles that get affected by the ripple are tiles with a distance of about 200 pixels from the clicked circle. There is a bigger effect for the shapes closer to the clicked circle as they will grow bigger whereas there is a weaker effect to the shapes that are further away. Additionally, tile.color will pick a random  RGB colour for the circles so every click will create a random colour. 
 
+You can also see the control panel experiment 1 [running here](Playful_control_panel_iteration_1_2026_05_18_08_27_11)
+
 Moving onto my second iteration, I went back to the original code I was working on in class and decided to add a control panel to it since the shapes have more movement and animation. 
 
 ![Screenshot 2026-05-18 085718.png](https://github.com/methujahere/Creative-Coding-Portfolio/blob/main/Screenshot%202026-05-18%20085718.png?raw=true)
